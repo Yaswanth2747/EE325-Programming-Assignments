@@ -10,7 +10,7 @@ Each folder contains:
 - The assignment question  
 - A documented PDF with **code**, **plots**, and **observations**
 
-Feel free to explore and learn, but please don't copying directly if you're currently enrolled in the course!
+Feel free to explore and learn, but please don't copy directly if you're currently enrolled in the course!
 
 ## 👥 Team Members
 
